@@ -1,0 +1,22 @@
+{
+  "name": "cleanops-api",
+  "version": "1.0.0",
+  "description": "REST API for cleaning service job scheduling, worker assignment, and payment tracking.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "backend",
+    "rest-api",
+    "nodejs",
+    "workflow",
+    "graduate-portfolio"
+  ],
+  "author": "Sifisokuhle Mavundla",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
